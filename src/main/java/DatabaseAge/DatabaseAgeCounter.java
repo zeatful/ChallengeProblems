@@ -14,7 +14,7 @@ public class DatabaseAgeCounter {
         Integer currentCount;
 
         /*  Use count sort and store data in a HashMap
-            for each age lookup it up in the count map,
+            for each age look it up in the count map,
             incrementing the value if it exists
             otherwise inserting a new entry of one
          */

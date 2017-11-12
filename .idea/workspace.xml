@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b45dbaff-9d82-4248-b2f1-30351364aea4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/DatabaseAge/DatabaseAgeCounter.java" afterPath="$PROJECT_DIR$/src/main/java/DatabaseAge/DatabaseAgeCounter.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -76,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DatabaseAgeCounter.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DatabaseAgeCounter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/DatabaseAge/DatabaseAgeCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="84" />
+            <state relative-caret-position="368">
+              <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -178,7 +178,6 @@
         <option value="$PROJECT_DIR$/src/main/java/DatabaseAges/DatabaseAgeCounter.java" />
         <option value="$PROJECT_DIR$/src/main/java/DatabaseAge/DatabaseStruct.java" />
         <option value="$PROJECT_DIR$/src/test/java/DatabaseAgeCounterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DatabaseAge/DatabaseAgeCounter.java" />
         <option value="$PROJECT_DIR$/src/main/java/Palindrome/PalindromeDateDetector.java" />
         <option value="$PROJECT_DIR$/src/main/java/Prime/PrimeNumberFinder.java" />
         <option value="$PROJECT_DIR$/src/main/java/StringMerge/StringMerger.java" />
@@ -191,6 +190,7 @@
         <option value="$PROJECT_DIR$/src/test/java/MaxDifference/MaxDifferenceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/MaxDifference/MaxDifferenceSolver.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseAge/DatabaseAgeCounter.java" />
       </list>
     </option>
   </component>
@@ -617,7 +617,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510278015372</updated>
-      <workItem from="1510278018516" duration="23165000" />
+      <workItem from="1510278018516" duration="23360000" />
     </task>
     <servers />
   </component>
@@ -654,7 +654,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23165000" />
+    <option name="totallyTimeSpent" value="23360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
@@ -850,24 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Anagram/AnagramDetector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DatabaseAge/DatabaseAgeCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MaxDifference/MaxDifferenceSolver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -908,6 +890,24 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Anagram/AnagramDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DatabaseAge/DatabaseAgeCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
