@@ -52,4 +52,5 @@ Given a sequence of numbers, starting at 1 and counting up by 1 sequentially and
 determine the missing number
 
 Example:
+
     1,2,3,4,5,7,8,9
