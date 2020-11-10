@@ -23,10 +23,12 @@ public class DatabaseAgeCounterTest {
     public void testLargeDataSet() throws Exception {
         long methodStartTime = System.nanoTime();
         int[] ages = generateArray();
-        DatabaseAgeCounter.mapOfAgeCounts(ages);
+        Map<Integer,Integer> map = DatabaseAgeCounter.mapOfAgeCounts(ages);
         long duration = ((System.nanoTime() - methodStartTime) / 1000000);
         System.out.println("DataSet of " + ages.length + " took " + duration + " ms to execute");
         assertTrue(duration < 300);
+
+        map.forEach((key, value) -> System.out.println(key + ":" + value));
     }
 
     // verify an map we create
